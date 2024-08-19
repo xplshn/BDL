@@ -9329,7 +9329,7 @@
     "name": "curl",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/curl",
     "size": "5.3 MB",
-    "build_date": "2024-08-13T19:12:14"
+    "build_date": "2024-08-18T19:08:29"
   },
   {
     "name": "cut",
@@ -14568,8 +14568,8 @@
   {
     "name": "ndk-pkg",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/ndk-pkg",
-    "size": "337.17 kB",
-    "build_date": "2024-07-16T03:54:32"
+    "size": "337.81 kB",
+    "build_date": "2024-08-17T04:29:06"
   },
   {
     "name": "newgrp",
@@ -14869,7 +14869,7 @@
     "name": "rsync",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/rsync",
     "size": "5.26 MB",
-    "build_date": "2024-08-13T19:22:12"
+    "build_date": "2024-08-18T19:18:37"
   },
   {
     "name": "run-parts",
@@ -15397,7 +15397,7 @@
     "name": "wget",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/wget",
     "size": "5.81 MB",
-    "build_date": "2024-08-13T19:30:57"
+    "build_date": "2024-08-18T19:27:21"
   },
   {
     "name": "whereis",
