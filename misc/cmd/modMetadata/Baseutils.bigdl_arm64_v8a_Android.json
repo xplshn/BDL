@@ -2433,8 +2433,8 @@
     "name": "busybox/ndk-pkg",
     "description": "A Software Suite that provides Several Unix Utilities in a single Executable",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/busybox/ndk-pkg",
-    "size": "337.17 kB",
-    "build_date": "2024-07-16T09:39:32",
+    "size": "337.81 kB",
+    "build_date": "2024-08-17T10:14:06",
     "repo_url": "https://git.busybox.net/busybox/",
     "web_url": "https://www.busybox.net/",
     "extra_bins": "[,[[,acpid,add_shell,addgroup,adduser,adjtimex,arch,arp,arping,ascii,ash,awk,base32,base64,basename,bb_arch,bb_sysctl,bc,beep,blkdiscard,blkid,blockdev,bootchartd,brctl,bunzip2,bzcat,bzip2,cal,cat,chat,chattr,chgrp,chmod,chown,chpasswd,chpst,chroot,chrt,chvt,cksum,clear,cmp,comm,conspy,cp,cpio,crc32,crond,crontab,cryptpw,cttyhack,cut,date,dc,dd,deallocvt,delgroup,deluser,depmod,devmem,df,dhcprelay,diff,dirname,dmesg,dnsd,dnsdomainname,dos2unix,dpkg,dpkg_deb,du,dumpkmap,dumpleases,echo,ed,egrep,eject,env,envdir,envuidgid,ether_wake,expand,expr,factor,fakeidentd,fallocate,false,fatattr,fbset,fbsplash,fdflush,fdformat,fdisk,fgconsole,fgrep,find,findfs,flock,fold,free,freeramdisk,fsck,fsck_minix,fsfreeze,fstrim,fsync,ftpd,ftpget,ftpput,fuser,getfattr,getopt,getty,grep,groups,gunzip,gzip,halt,hd,hdparm,head,hexdump,hexedit,hostid,hostname,httpd,hush,hwclock,i2cdetect,i2cdump,i2cget,i2cset,i2ctransfer,id,ifconfig,ifdown,ifenslave,ifplugd,ifup,inetd,init,insmod,install,ionice,iostat,ip,ipaddr,ipcalc,ipcrm,ipcs,iplink,ipneigh,iproute,iprule,iptunnel,kbd_mode,kill,killall,killall5,klogd,last,less,link,linux32,linux64,linuxrc,ln,loadfont,loadkmap,logger,login,logname,logread,losetup,lpd,lpq,lpr,ls,lsattr,lsmod,lsof,lspci,lsscsi,lsusb,lzcat,lzma,lzop,makedevs,makemime,man,md5sum,mdev,mesg,microcom,mim,mkdir,mkdosfs,mke2fs,mkfifo,mkfs_ext2,mkfs_minix,mkfs_vfat,mknod,mkpasswd,mkswap,mktemp,modinfo,modprobe,more,mount,mountpoint,mpstat,mt,mv,nameif,nanddump,nandwrite,nbdclient,nc,netstat,nice,nl,nmeter,nohup,nologin,nproc,nsenter,nslookup,ntpd,od,openvt,partprobe,passwd,paste,patch,pgrep,pidof,ping,ping6,pipe_progress,pivot_root,pkill,pmap,popmaildir,poweroff,powertop,printenv,printf,ps,pscan,pstree,pwd,pwdx,raidautorun,rdate,rdev,readahead,readlink,readprofile,realpath,reboot,reformime,remove_shell,renice,reset,resize,resume,rev,rm,rmdir,rmmod,route,rpm,rpm2cpio,rtcwake,run_init,run_parts,runlevel,runsv,runsvdir,rx,script,scriptreplay,sed,seedrng,sendmail,seq,setarch,setconsole,setfattr,setfont,setkeycodes,setlogcons,setpriv,setserial,setsid,setuidgid,sh,sh_is_ash,sha1sum,sha256sum,sha3sum,sha512sum,showkey,shred,shuf,slattach,sleep,smemcap,softlimit,sort,split,ssl_client,start_stop_daemon,stat,strings,stty,su,sulogin,sum,sv,svc,svlogd,svok,swapoff,swapon,switch_root,sync,sysctl,syslogd,tac,tail,tar,taskset,tc,tcpsvd,tee,telnet,telnetd,test,test1,test2,tftp,tftpd,time,timeout,top,touch,tr,traceroute,traceroute6,tree,true,truncate,ts,tsort,tty,ttysize,tunctl,ubiattach,ubidetach,ubimkvol,ubirename,ubirmvol,ubirsvol,ubiupdatevol,udhcpc,udhcpc6,udhcpd,udpsvd,uevent,umount,uname,unexpand,uniq,unix2dos,unlink,unlzma,unshare,unxz,unzip,uptime,users,usleep,uudecode,uuencode,vconfig,vi,vlock,volname,w,wall,watch,watchdog,wc,wget,which,who,whoami,whois,xargs,xxd,xz,xzcat,yes,zcat,zcip"
@@ -3491,7 +3491,7 @@
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/busybox/tar",
     "size": "517.95 kB",
     "b3sum": "4c9f99f5de95ceb497d6efcf1567d600d62c583ebe8160261f7a259554caa715",
-    "sha256": "696be73156ee29bc175664d2da9a79a9b2774ed0fc5fade1b8eac69c735163c5",
+    "sha256": "2c619c2c40463397d5de4c866811ffaf61dd2ada09ee3157f5ff9b7e03021198",
     "build_date": "2023-05-19T02:35:39",
     "repo_url": "https://git.busybox.net/busybox/",
     "web_url": "https://www.busybox.net/",
@@ -7091,8 +7091,8 @@
     "name": "coreutils/ndk-pkg",
     "description": "GNU File, Shell, and Text utilities",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/coreutils/ndk-pkg",
-    "size": "337.17 kB",
-    "build_date": "2024-07-16T09:39:32",
+    "size": "337.81 kB",
+    "build_date": "2024-08-17T10:14:06",
     "repo_url": "https://github.com/coreutils/coreutils",
     "web_url": "https://www.gnu.org/software/coreutils/",
     "extra_bins": "[,b2sum,base32,base64,basename,basenc,cat,chcon,chgrp,chmod,chown,chroot,cksum,comm,cp,csplit,cut,date,dd,df,dir,dircolors,dirname,du,echo,env,expand,expr,factor,false,fmt,fold,groups,head,id,install,join,kill,link,ln,logname,ls,md5sum,mkdir,mkfifo,mknod,mktemp,mv,nice,nl,nohup,nproc,numfmt,od,paste,pathchk,pinky,pr,printenv,printf,ptx,pwd,readlink,realpath,rm,rmdir,runcon,seq,sha1sum,sha224sum,sha256sum,sha384sum,sha512sum,shred,shuf,sleep,sort,split,stat,stdbuf,stty,sum,sync,tac,tail,tee,test,timeout,touch,tr,true,truncate,tsort,tty,uname,unexpand,uniq,unlink,uptime,users,vdir,wc,who,whoami,yes"
@@ -9329,7 +9329,7 @@
     "name": "curl",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/curl",
     "size": "5.3 MB",
-    "build_date": "2024-08-18T19:08:29"
+    "build_date": "2024-08-20T19:10:00"
   },
   {
     "name": "cut",
@@ -12157,8 +12157,8 @@
     "name": "libarchive/ndk-pkg",
     "description": "Multi-format archive and compression Tools",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/libarchive/ndk-pkg",
-    "size": "337.17 kB",
-    "build_date": "2024-07-16T09:39:32",
+    "size": "337.81 kB",
+    "build_date": "2024-08-17T10:14:06",
     "repo_url": "https://github.com/libarchive/libarchive",
     "web_url": "https://www.libarchive.org/",
     "extra_bins": "bsdcat,bsdcpio,bsdunzip"
@@ -14869,7 +14869,7 @@
     "name": "rsync",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/rsync",
     "size": "5.26 MB",
-    "build_date": "2024-08-18T19:18:37"
+    "build_date": "2024-08-20T19:20:22"
   },
   {
     "name": "run-parts",
@@ -15397,7 +15397,7 @@
     "name": "wget",
     "download_url": "https://bin.ajam.dev/arm64_v8a_Android/Baseutils/wget",
     "size": "5.81 MB",
-    "build_date": "2024-08-18T19:27:21"
+    "build_date": "2024-08-20T19:29:04"
   },
   {
     "name": "whereis",
