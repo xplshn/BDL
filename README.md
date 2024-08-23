@@ -1,4 +1,4 @@
-# NOTICE: Development continues over at `[dbin](https://github.com/xplshn/dbin)`
+# NOTICE: Development continues over at [`dbin`](https://github.com/xplshn/dbin)
 ## BigDL: Advanced Binary Management Tool
 [![Go Report Card](https://goreportcard.com/badge/github.com/xplshn/bigdl)](https://goreportcard.com/report/github.com/xplshn/bigdl)
 [![License](https://img.shields.io/badge/license-%20RABRMS-bright_green)](https://github.com/xplshn/bigdl/blob/master/LICENSE)
